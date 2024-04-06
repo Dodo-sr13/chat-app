@@ -39,4 +39,4 @@ If you encounter any issues or have any questions, please feel free to [create a
 
 ---
 
-Thank you for using the Chat application. Happy gossip! 🛒🚀
+Thank you for using the Chat application. Happy gossip!
