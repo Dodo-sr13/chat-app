@@ -1,6 +1,6 @@
-# E-Commerce Node Website
+# Real-time Chat Application
 
-Welcome to the a simple Chat application! This repository contains the codebase for a simple chat application built using React and Node.js. Whether you're a developer looking to contribute or a user interested in setting up your own online store, this README will guide you through the project setup and usage.
+Welcome to a simple Chat application! This repository contains the codebase for a simple chat application built using React and Node.js. Whether you're a developer looking to contribute or a user interested in setting up your own online store, this README will guide you through the project setup and usage.
 
 ## Features
 
@@ -30,7 +30,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Support
 
-If you encounter any issues or have any questions, please feel free to [create an issue](https://github.com/Dodo-sr13/reactjs-chat-app/issues). We're here to help!
+If you encounter any issues or have any questions, please feel free to [create an issue](https://github.com/Dodo-sr13/chat-app/issues). We're here to help!
 
 ## Future work
 
